@@ -1,12 +1,18 @@
  Hi there, I'm Rashmi R ! 👋
 📍 Bengaluru, India • 📞 6363495338 • ✉️ rasdhmimaruthi2@gmail.com
+
+
 🌟 About Me
       Currently pursuing Bachelor of Engineering in Computer Science and Engineering with Specialization in Artificial Intelligence and Machine Learning.
     💻 Adept in programming languages, algorithms, and problem-solving.
     🌱 I’m currently learning Machine Learing,Generative AI
     📫 How to reach me: rasdhmimaruthi2@gmail.com
+
+    
 💻 Skill:
    👩‍💻 C | 🌐 HTML | 🎨 CSS | 💻 JavaScript | 🗃️ SQL | 🚀 C++ | 🐍 Python | 📊 R | ☕ Java
+
+   
 📚 Relevant Coursework:
     Database Management Systems
     Data Structures
@@ -18,6 +24,7 @@
     Operating Systems
     Machine Learning
     Big Data Analytics
+    
 
 Connect through LinkedIn
   LinkedIn: https://www.linkedin.com/in/rashmi-r-189a75230/
