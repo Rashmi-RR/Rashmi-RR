@@ -16,31 +16,20 @@
     
 💻 Skill:
 
-     👩‍💻 C | 🌐 HTML | 🎨 CSS | 💻 JavaScript | 🗃️ SQL | 🚀 C++ | 🐍 Python | 📊 R | ☕ Java
+     👩‍💻 C |  HTML |  CSS |  JavaScript |  SQL | C++ | Python | R |  Java
 
    
 📚 Relevant Coursework:
 
-    Database Management Systems
-    Data Structures
+    DBMS
+    DSA
     Computer Organization & Architecture
-    OOPs
-    Data Communication & Networking
-    Algorithms
-    Artificial Intelligence
-    Operating Systems
-    Machine Learning
-    Big Data Analytics
+    OOPs  Data Communication & Networking
+    Artificial Intelligence, ML < DL
+    OS ,Big Data Analytics
     
 
 
 Connect through LinkedIn:  
 
      https://www.linkedin.com/in/rashmi-r-189a75230/
-
-
-
-<!---
-Rashmi-RR/Rashmi-RR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
