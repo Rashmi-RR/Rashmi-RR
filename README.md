@@ -8,8 +8,7 @@
 🌟 About Me:
 
       Currently pursuing BE in Computer Science and Engineering with Specialization in (AI AND ML)
-      and doing projects, 
-    💻 Adept in programming languages, algorithms, critical thinking  and problem-solving.
+      and doing projects,.
     🌱 I’m currently learning Machine Learing, Generative AI
     📫 How to reach me: rasdhmimaruthi2@gmail.com
 
