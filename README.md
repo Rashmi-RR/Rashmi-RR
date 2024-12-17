@@ -1,12 +1,7 @@
  Hi there, I'm Rashmi R ! 👋
  
-    📍 Bengaluru, India 
-    • 📞 6363495338 
+    📍 Bengaluru, India
     • ✉️ rasdhmimaruthi2@gmail.com
-  
-💻 Skill:
-      
-     👩‍💻 C |  HTML |  CSS |  JavaScript |  SQL | C++ | Python | R |  Java
     
 Connect through LinkedIn:  
 
